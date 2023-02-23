@@ -1,0 +1,22 @@
+{
+    "contact":[
+        {
+            "nombre": "Adria Nuñez",
+            "telefono": "435654567",
+            "relacion": "Amigo",
+            "notas": "Es mi amigo"
+        },
+        {
+            "nombre": "Josep Maria",
+            "telefono": "13732134",
+            "relacion": "Trabajo",
+            "notas": "Este pive trabaja con migo LOL"
+        },
+        {
+            "nombre": "Marc Guiu",
+            "telefono": "23132844",
+            "relacion": "Familia",
+            "notas": "Es edoptado"
+        }
+    ]
+}
